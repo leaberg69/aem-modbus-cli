@@ -69,6 +69,11 @@ For testing your CLI calls against a deterministic local target, see the compani
 - [Interactive Modbus map](https://aem.lri.com.br/en-us/modbus) — 147 holding registers documented
 - [Technical whitepapers](https://aem.lri.com.br/en-us/whitepapers) — Secure by Design, IEC 62443-4-2 SL2, battery banks
 
+
+
+## See also
+
+- [awesome-industrial-modbus](https://github.com/leaberg69/awesome-industrial-modbus) — Curated list of all Modbus tools, libraries, simulators, and resources (lists this project alongside competing alternatives)
 ## License
 
 MIT — see [LICENSE](LICENSE).
